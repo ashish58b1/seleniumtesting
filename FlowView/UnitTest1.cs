@@ -28,7 +28,7 @@
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(30));
             driver.Navigate().GoToUrl(this.baseURL);
-            driver.FindElementById("userNa").SendKeys("flname1");
+            driver.FindElementById("user").SendKeys("flname1");
             driver.FindElementById("userPassword").SendKeys("Temp~1");
            
             //do other Selenium things here!
