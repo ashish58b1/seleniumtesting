@@ -8,3 +8,13 @@ c:\users\ashish.srivastava\documents\visual studio 2015\Projects\FlowView\FlowVi
 c:\users\ashish.srivastava\documents\visual studio 2015\Projects\FlowView\FlowView\obj\Debug\FlowView.csprojResolveAssemblyReference.cache
 c:\users\ashish.srivastava\documents\visual studio 2015\Projects\FlowView\FlowView\obj\Debug\FlowView.dll
 c:\users\ashish.srivastava\documents\visual studio 2015\Projects\FlowView\FlowView\obj\Debug\FlowView.pdb
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\FlowView.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\FlowView.pdb
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\Ionic.Zip.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\WebDriver.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\WebDriver.xml
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.csprojResolveAssemblyReference.cache
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.dll
+C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.pdb
