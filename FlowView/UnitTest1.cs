@@ -29,7 +29,7 @@
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(30));
             driver.Navigate().GoToUrl(this.baseURL);
             driver.FindElementById("user").SendKeys("flname1");
-            driver.FindElementById("userPassword").SendKeys("Temp~1");
+            driver.FindElementById("userPassword");
            
             //do other Selenium things here!
         }
