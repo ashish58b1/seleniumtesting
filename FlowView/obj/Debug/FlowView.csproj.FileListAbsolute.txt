@@ -18,3 +18,13 @@ C:\Users\ashish.srivastava\Desktop\vsts\FlowView\bin\Debug\WebDriver.xml
 C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.csprojResolveAssemblyReference.cache
 C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.dll
 C:\Users\ashish.srivastava\Desktop\vsts\FlowView\obj\Debug\FlowView.pdb
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\FlowView.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\FlowView.pdb
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\Ionic.Zip.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\WebDriver.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\bin\Debug\WebDriver.xml
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\obj\Debug\FlowView.csprojResolveAssemblyReference.cache
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\obj\Debug\FlowView.dll
+C:\Users\ashish.srivastava\Desktop\selen\seleniumtesting\FlowView\obj\Debug\FlowView.pdb
